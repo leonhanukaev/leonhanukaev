@@ -6,8 +6,4 @@ Hello, my name is Leon and i enjoy Python scripting, sometimes i like JavaScript
 
 Skills: Python / JS / Splunk / HTML 
 
-- 🔭 I’m currently working on this page. 
-
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonhanukaev)](https://github.com/anuraghazra/github-readme-stats)

@@ -16,6 +16,6 @@ Hello, my name is Leon and i enjoy Python programing, and sometimes i like JavaS
 <a href="https://github.com/leonhanukaev">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonhanukaev&theme=dracula&show_icons=true&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonhanukaev&theme=dracula&layout=compact&include_all_commits=true&langs_count=2">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonhanukaev&theme=dracula&layout=compact&include_all_commits=true&langs_count=2">
 </a>
 </p>

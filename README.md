@@ -5,4 +5,4 @@ Hello, my name is Leon and i enjoy Python programing, and sometimes i like JavaS
 
 Skills: Python / JS / Splunk / HTML 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonhanukaev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonhanukaev)]

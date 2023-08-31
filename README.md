@@ -12,8 +12,6 @@ Hello, my name is Leon and i enjoy Python programing, and sometimes i like JavaS
 🎓 &nbsp;Working on more certs
 
 
-## GitHub Analytics
-
 <p align="center">
 <a href="https://github.com/leonhanukaev">
 

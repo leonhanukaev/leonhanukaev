@@ -6,10 +6,10 @@
 <!-- ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px"> Hello World -->
 ## Hello
 
-Hello, my name is Leon and i enjoy Python programing, and sometimes i like JavaScript (we have a love and hate relationship).
+Hello, my name is Leon and i enjoy Python programing and cybersecurity.
 
 ### About me
-🎓 &nbsp;Working on more certs
+🎓 &nbsp;Working on more certs (Google cybersecurity professional certificate, CS50)
 
 
 <p align="center">
